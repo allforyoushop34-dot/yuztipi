@@ -16,8 +16,8 @@ st.markdown(
     <head>
         <meta property="og:title" content="Yüz Tipoloji ve Karakter Analizi">
         <meta property="og:description" content="Yüzünü tarat, yapay zekanın hakkındaki en dürüst ve eğlenceli yorumunu keşfet!">
-        <meta property="og:image" content="https://tipiniseveyim.streamlit.app/preview.jpg">
-        <meta property="og:url" content="https://tipiniseveyim.streamlit.app/">
+        <meta property="og:image" content="https://tipiniziseveyim.streamlit.app/preview.jpg">
+        <meta property="og:url" content="https://tipiniziseveyim.streamlit.app/">
         <meta name="twitter:card" content="summary_large_image">
     </head>
 """,
@@ -546,7 +546,7 @@ if yuklenen_dosya is not None:
           st.error(f"🚨 **Sabıka / Suç Tahmini:** {sabika_tahmini}")
 
           # --- PAYLAŞIM BUTONLARI ---
-          site_linki = "https://tipiniseveyim.streamlit.app/"
+          site_linki = "https://tipiniziseveyim.streamlit.app/"
 
           tam_metin = (
               "🤖 Yapay Zeka Yüz Analizim:\n\n"
