@@ -309,7 +309,7 @@ if yuklenen_dosya is not None:
           st.error(f"🚨 **Sabıka / Suç Tahmini:** {sabika_tahmini}")
 
           # --- PAYLAŞIM BUTONLARI ---
-          site_linki = "https://tipiniseveyim.streamlit.app/"
+          site_linki = "https://tipiniziseveyim.streamlit.app/"
           tam_metin = (
               "🤖 Yapay Zeka Yüz Analizim:\n\n"
               f'"{akici_insansi_metin}"\n\n💰 Zenginlik İhtimali: {zenginlik_orani}\nSen de yüzünü test et, sonucu gör! 👉'
